@@ -25,7 +25,7 @@ public class TwoDArrayPractice
      */
     public static void colSwap(int[][] array, int colAIndex, int colBIndex)
     {
-        // Your code her
+       new int array = new array[][]
     }
 
   
